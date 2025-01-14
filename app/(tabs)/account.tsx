@@ -2,6 +2,6 @@ import { View, Text } from "react-native"
 
 export default function Account () {
     return <View>
-        <Text>Account section</Text>
+        <Text>fat section</Text>
     </View>
 }
